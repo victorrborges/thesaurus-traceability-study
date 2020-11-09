@@ -15,7 +15,7 @@ This repository is organized as follows:
 
 ## Scenarios description
 
-The scenarios are descripted as follows:
+The scenarios are described as follows:
 
 | Label | API | Expansion Approach | Sub Scenarios |
 | ------ | ------ | ------ | ------ |
