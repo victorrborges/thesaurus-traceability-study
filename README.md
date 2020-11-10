@@ -4,7 +4,7 @@ Repository of my undergraduate thesis "Using a Thesaurus in Traceability Recover
 
 ## Abstract
 
-The software development process generates several textual artifacts that are mostly written in natural language. Establishing connections between these artifacts can have a positive impact on performing a variety of tasks, including understanding and maintaining code. The use of Information Retrieval (IR) and Machine Learning (AM) techniques in order to recover the traceability between bug reports and test cases has already been proposed, however, the results indicate the need for improvements, especially to deal with the differences in vocabulary. In this paper, we created a Vocabulary Unifier using a thesaurus to expand the vocabulary encountered in bug reports, aiming to unify their terms in line with the terms from the test cases, observing  slight improvements in recall and precision rates.
+The software development process generates several textual artifacts that are mostly written in natural language. Establishing connections between these artifacts can have a positive impact on performing a variety of tasks, including understanding and maintaining code. The use of Information Retrieval (IR) and Machine Learning (ML) techniques in order to recover the traceability between bug reports and test cases has already been proposed, however, the results indicate the need for improvements, especially to deal with the differences in vocabulary. In this paper, we created a Vocabulary Unifier using a thesaurus to expand the vocabulary encountered in bug reports, aiming to unify their terms in line with the terms from the test cases, observing  slight improvements in recall and precision rates.
 
 ## Repository map
 
