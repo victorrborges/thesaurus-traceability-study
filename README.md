@@ -17,17 +17,17 @@ This repository is organized as follows:
 
 The scenarios are descripted as follows:
 
-| Label | API | Expansion Approach | Sub Scenarios |
+| Expansion Technique | API | Expansion Approach | Scenarios |
 | ------ | ------ | ------ | ------ |
-| SB | - | - | - |
-| SW | Wordnet | - | SW-1 to SW-5 |
-| SC | ConceptNet | - | SC-1 to SC-5 |
-| SW-n | Wordnet | Nouns | SW-n-1 to SW-n-5 |
-| SC-n | ConceptNet | Nouns | SC-n-1 to SC-n-5 |
-| SW-s | Wordnet | Scope | SW-s-1 to SW-s-5 |
-| SC-s | ConceptNet | Scope | SC-s-1 to SC-s-5 |
-| SW-ns | Wordnet | Both | SW-ns-1 to SW-ns-5 |
-| SC-ns | ConceptNet | Both | SC-ns-1 to SC-ns-5 |
+| BASE | - | - | - |
+| WFE | Wordnet | - | WFE-1 to WFE-5 |
+| CFE | ConceptNet | - | CFE-1 to CFE-5 |
+| WNE | Wordnet | Nouns | WNE-1 to WNE-5 |
+| CNE | ConceptNet | Nouns | CNE-1 to CNE-5 |
+| WSE | Wordnet | Scope | WSE-1 to WSE-5 |
+| CSE | ConceptNet | Scope | CSE-1 to CSE-5 |
+| WNSE | Wordnet | Nouns and Scope | WNSE-1 to WNSE-5 |
+| CNSE | ConceptNet | Nouns and Scope | CNSE-1 to CNSE-5 |
 
 [figures]: <https://github.com/victorrborges/thesaurus-traceability-study/tree/main/figures>
 [scenarios_output]: <https://github.com/victorrborges/thesaurus-traceability-study/tree/main/scenarios_output>
